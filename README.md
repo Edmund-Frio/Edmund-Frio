@@ -1,6 +1,6 @@
 - 👋 Hello there, I’m @Edmund-Frio :)
-- 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Back-end Development
+- 🌱 I’m currently learning Python and Linux
 - 💞️ I’m looking to collaborate on group projects
 - 📫 How to get in contact with me: 
       -  Email: @edmundfrio@gmail.com
