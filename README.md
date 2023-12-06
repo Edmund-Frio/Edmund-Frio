@@ -1,5 +1,5 @@
 - 👋 Hello there, I’m @Edmund-Frio :)
-- 👀 I’m interested in Front-end Development, Back-end Development and Web Application Penetration Testing
+- 👀 I’m interested in Front-end Development, Back-end Development, and Database Administration
 - 🌱 I’m currently learning Python and Linux
 - 💞️ I’m looking to collaborate on group projects
 - 📫 How to get in contact with me: 
